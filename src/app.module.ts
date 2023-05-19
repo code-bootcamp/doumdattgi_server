@@ -8,10 +8,10 @@ import { MailerModule } from '@nestjs-modules/mailer';
 import * as redisStore from 'cache-manager-redis-store';
 import { HandlebarsAdapter } from '@nestjs-modules/mailer/dist/adapters/handlebars.adapter';
 import { AuthModule } from './apis/auth/auth.module';
-import { PointsTransactionsModule } from './apis/pointTransaction/pointTransaction.module';
 import { FilesModule } from './apis/files/files.module';
 import { ProductModule } from './apis/product/product.module';
 import { RequestsModule } from './apis/request/request.module';
+import { PaymentsModule } from './apis/payment/payment.module';
 
 @Module({
   imports: [
@@ -20,7 +20,7 @@ import { RequestsModule } from './apis/request/request.module';
     FilesModule,
     ProductModule,
     RequestsModule,
-    PointsTransactionsModule,
+    PaymentsModule,
     ConfigModule.forRoot(),
     GraphQLModule.forRoot<ApolloDriverConfig>({
       driver: ApolloDriver,
