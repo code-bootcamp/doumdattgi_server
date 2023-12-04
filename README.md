@@ -10,7 +10,7 @@
 
 ---
 # 배포 주소
-### [도움닫기](https://www.doumdattgi.com/) https://www.doumdattgi.com/
+### [도움닫기](https://doumdattgi.com/) https://doumdattgi.com/
 
 ---
 # 📆 프로젝트 기간
