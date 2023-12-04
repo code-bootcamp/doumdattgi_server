@@ -20,19 +20,8 @@
 ---
 # 🛠 기술 스택
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Emotion](https://img.shields.io/badge/emotion-c43BAD?style=for-the-badge&logo=css3&logoColor=white)
-<br>
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<br>
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-<br>
+![기술스택 drawio](https://github.com/code-bootcamp/doumdattgi_server/assets/115931848/9daf97d2-60fe-4c51-a51d-afb45d76035d)
+
 ![Fontawesome](https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Reacthookform](https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 <br>
@@ -106,16 +95,6 @@
  - 완료를 받은 구매자는 의뢰를 종료하고 예정된 거래금액을 판매자에게 전달 가능
  - 구매자는 의뢰 수락, 완료를 현 진행상태를 통해 확인 가능
  - 거래 완료 시 플랫폼 이용에 도움이 되는 마일리지 적립 가능
-
----
-# ❗️기술 키워드
-### 컴포넌트 재사용
-![](https://velog.velcdn.com/images/cometes/post/d4483e04-a825-4651-991a-7b152670c3aa/image.png)
-- React의 장점이라고 할 수 있는 재사용성을 높이기 위하여 각 파츠들을 분리하여 hooks로 컴포넌트화 하였으며 디자인 요소 또한 컴포넌트화 하여 전체적인 톤앤매너의 통일감을 주었습니다.
-
-### 와이어프레임
-![](https://velog.velcdn.com/images/cometes/post/c1cf5c0b-2e53-43b2-ba5f-5a8781795119/image.png)
-- Figma의 Prototype기능을 활용하여 각 페이지의 연결을 직관적이게 확인하였으며 효율적인 구조화가 가능하였습니다.
 
 ---
 # 🖥️ 페이지 구성
