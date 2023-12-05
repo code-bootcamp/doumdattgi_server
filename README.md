@@ -10,7 +10,7 @@
 
 ---
 # 배포 주소
-### [도움닫기](https://doumdattgi.com/) https://doumdattgi.com/
+### [도움닫기](http://doumdattgi.com/) https://doumdattgi.com/
 
 ---
 # 📆 프로젝트 기간
@@ -25,6 +25,10 @@
 ![Fontawesome](https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Reacthookform](https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 <br>
+
+---
+# 📌 플로우차트
+![플로우차트 drawio](https://github.com/orca7142/doumdattgi_server-1/assets/115931848/d8aec927-f0bc-415c-9ca3-a24bc9ec3827)
 
 ---
 # 🧑‍💻 👩🏻‍💻 프로젝트 팀원 구성
@@ -74,6 +78,7 @@
  
  - 카테고리별로 등록된 게시글 목록 조회 가능
  - 게시글 클릭 시 등록자 연락처, 판매정보, 작업 시간 등 조회 가능
+ - 찜한 게시물 조회 가능, 찜 기능
  
 
  ### 🎯 **게시글 작성기능**
@@ -114,4 +119,3 @@
 
 ## 마일리지 페이지
 ![](https://velog.velcdn.com/images/cometes/post/8394500e-a415-4823-a1f5-e5e4558660f2/image.gif)
-
